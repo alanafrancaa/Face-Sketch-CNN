@@ -10,4 +10,4 @@ Este projeto utiliza uma Rede Neural Convolucional (CNN) para processar e rotula
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/Face-Sketch-CNN.git
+   git clone https://github.com/alanafrancaa/Face-Sketch-CNN.git
