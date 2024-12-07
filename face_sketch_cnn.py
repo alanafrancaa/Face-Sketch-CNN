@@ -70,9 +70,9 @@ def carregar_dados(diretorio, arquivo_rotulos):
             rotulos.append(int(rotulo))
     return np.array(imagens), np.array(rotulos)
 
-diretorio_imagens_originais = "C:/Users/Alana França/Documents/imagens_originais"
-diretorio_imagens_editadas = "C:/Users/Alana França/Documents/imagens_editadas"
-caminho_arquivo_rotulos = "C:/Users/Alana França/Documents/arquivo_rotulos.csv"
+diretorio_imagens_originais = "C:\Users\Alana França\Documents\imagens_originais"
+diretorio_imagens_editadas = "C:\Users\Alana França\Documents\imagens_editadas"
+caminho_arquivo_rotulos = "C:\Users\Alana França\Documents\arquivo_rotulos.csv"
 
 imagens, rotulos = carregar_dados(diretorio_imagens_editadas, caminho_arquivo_rotulos)
 
